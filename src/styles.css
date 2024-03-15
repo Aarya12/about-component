@@ -319,6 +319,10 @@
   font-weight: 400;
   line-height: 150%;
 }
+
+.fontWeight{
+  font-weight: 700 !important;
+}
 .overline {
   font-size: 12px;
   font-family: Cabin;
