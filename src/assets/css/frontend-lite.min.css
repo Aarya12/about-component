@@ -1052,6 +1052,10 @@
     align-content: flex-start
 }
 
+.elementor-about-us {
+    background-color: #758350 !important;
+}
+
 .elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap {
     display: -webkit-box;
     display: -ms-flexbox;
